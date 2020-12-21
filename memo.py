@@ -37,7 +37,7 @@ def exitfile():
 def memoinfo() :
     m = Toplevel(Window)
     m.title("메모장 정보")
-    mlabel = Label(m, text="\n메모장 버전 1.0\n 제작:박하은\n", width=40, height=20)
+    mlabel = Label(m, text="\n메모장 버전 1.0\n 제작:하은&태훈\n", width=40, height=20)
     mlabel.config(bg="#FFDEE9")
     mlabel.pack()
 
